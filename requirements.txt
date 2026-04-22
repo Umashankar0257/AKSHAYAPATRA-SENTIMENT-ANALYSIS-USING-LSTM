@@ -4,4 +4,6 @@ scikit-learn
 matplotlib
 tensorflow
 nltk
-ipynb
+ipykernel
+imbalanced-learn
+streamlit

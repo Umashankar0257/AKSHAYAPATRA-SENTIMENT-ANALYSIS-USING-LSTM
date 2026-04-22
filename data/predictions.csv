@@ -1,0 +1,4 @@
+item_name,feedback_text,clean_text,predicted_sentiment
+Paneer Curry,Food was amazing,food amazing,positive
+Rice,Rice was undercooked,rice undercooked,neutral
+Dosa,Average taste,average taste,negative
